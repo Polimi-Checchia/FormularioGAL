@@ -1,0 +1,5 @@
+- composizione
+- proprietà traccia/determinante/matrice trasposta
+- sistemare teorema di mutua posizione
+- matrice rappresentativa (app. lineari)
+- matrice cambio di base (app. lineari)
